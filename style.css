@@ -1,0 +1,66 @@
+body {
+        font-family: 'Comfortaa', cursive;
+        margin-left: 35%;
+        margin-right: 35%;
+        background-color: #FFFABD;
+   
+   }
+ div.a {
+     color:rgb(54, 107, 74); 
+     font-size:20px;
+     text-align: center;
+     font-weight: bold;
+  
+  }
+  
+  div.b{
+     color: blue; 
+     font-size:20px;
+     text-align: center;
+     font-weight: bold;
+  
+  }
+  
+  div.d{
+   color: blue; 
+   font-weight: bold; 
+   font-size: 20px;
+ }
+
+ .left {
+    float: left;
+    margin: 0 25px 25px 0;
+ }
+ 
+ .right {
+ 
+    float: right;
+    margin: 0 20px 20px 0;
+ }
+ 
+  ul.c {
+     margin-left: 35%;
+     margin-right: 35;
+  }
+ 
+  p {
+    font-size: 15px;
+ 
+  }
+ 
+  a {
+    font-size:medium;
+    color: black;
+  }
+  
+  nav {
+    font-weight: bold;
+    text-align: center;
+ 
+  }
+  
+  sup {
+
+   font-weight: bold;
+  }
+
